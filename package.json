@@ -1,5 +1,5 @@
 {
-  "name": "lexer",
+  "name": "lexer-csv",
   "version": "1.0.0",
   "description": "Simple csv to json file writer",
   "main": "app.js",
